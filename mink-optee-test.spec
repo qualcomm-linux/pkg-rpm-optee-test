@@ -1,6 +1,6 @@
 Name:		mink-optee-test
 Version:	4.0.0
-Release:	1%{?dist}
+Release:	1.qli%{?dist}
 Summary:	Qualcomm mink based optee xtest suite for QTEE
 
 License:	BSD-2-Clause
@@ -50,5 +50,5 @@ The package includes the xtest_qtee QTEE sanity testsuite.
 
 
 %changelog
-* Wed Sep 02 2026 Abhinaba Rakshit <abhinaba.rakshit@oss.qualcomm.com> - 4.0.0-1
-- Initial RPM package with upstream v4.0.0
+* Sat Oct 17 2026 Abhinaba Rakshit <abhinaba.rakshit@oss.qualcomm.com> - 4.0.0-1.qli
+- Initial RPM packaging with upstream 4.0.0
